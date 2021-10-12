@@ -15,6 +15,7 @@ source envname/bin/activate or envname/scripts/activate
 pip install -r requirements.txt
 
 6.Run the task:
-python api.py along with postman software for testing
+python api mine.py along with postman software for testing
 
+7. Remember to set path SQLite3 for database
 Enjoy...
